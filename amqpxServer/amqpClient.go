@@ -4,7 +4,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/ewk-elwa/go-amqp/amqpx"
+	"github.com/ewk-elwa/go-amqpx/amqpx"
 )
 
 type amqpConnInfo struct {

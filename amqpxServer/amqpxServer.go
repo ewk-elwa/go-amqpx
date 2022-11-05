@@ -10,9 +10,9 @@ import (
 	"strconv"
 	"time"
 
-	amqpx "github.com/ewk-elwa/go-amqp/amqpx"
+	amqpx "github.com/ewk-elwa/go-amqpx/amqpx"
+	"github.com/ewk-elwa/go-amqpx/utils"
 
-	"github.com/ewk-elwa/go-play/utils"
 	log "github.com/mgutz/logxi/v1"
 )
 
