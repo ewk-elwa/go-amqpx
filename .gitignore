@@ -13,3 +13,15 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# IDE directories
+.idea/
+.vscode
+
+# IDE directories
+.idea/
+.vscode
+.DS_Store
+
+# Some binaries to ignore
+amqpx-tcp-server
